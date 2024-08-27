@@ -10,3 +10,6 @@
 [submodule "lib/bitcoin-spv"]
 	path = lib/bitcoin-spv
 	url = https://github.com/bob-collective/bitcoin-spv
+[submodule "lib/bob"]
+	path = lib/bob
+	url = https://github.com/bob-collective/bob
